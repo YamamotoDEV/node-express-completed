@@ -1,4 +1,4 @@
-# node-express-forum
+# Forum
 Simple Web Forum using Node and Express and Mongo DB
 
 # Features
